@@ -1,6 +1,6 @@
 # Macintosh Fonts
 ## About
-This is a collection of fonts on the original Macintosh, including
+This is a collection of fonts on the original Macintosh, including  
 Athens 18  
 Chicago 12  
 Geneva  
