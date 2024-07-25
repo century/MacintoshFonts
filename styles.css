@@ -1,0 +1,267 @@
+@font-face
+{
+    font-family: "Athens";
+    src: url(downloads/woff2/MacAthens-18.woff2)
+}
+
+@font-face
+{
+    font-family: "Chicago";
+    src: url(downloads/woff2/MacChicago-12.woff2)
+}
+
+@font-face
+{
+    font-family: "Geneva09";
+    src: url(downloads/woff2/MacGeneva-09.woff2)
+}
+
+@font-face
+{
+    font-family: "Geneva10";
+    src: url(downloads/woff2/MacGeneva-10.woff2)
+}
+
+@font-face
+{
+    font-family: "Geneva12";
+    src: url(downloads/woff2/MacGeneva-12.woff2)
+}
+
+@font-face
+{
+    font-family: "Geneva14";
+    src: url(downloads/woff2/MacGeneva-14.woff2)
+}
+
+@font-face
+{
+    font-family: "Geneva18";
+    src: url(downloads/woff2/MacGeneva-18.woff2)
+}
+
+@font-face
+{
+    font-family: "Geneva24";
+    src: url(downloads/woff2/MacGeneva-24.woff2)
+}
+
+@font-face
+{
+    font-family: "London";
+    src: url(downloads/woff2/MacLondon-18.woff2)
+}
+
+@font-face
+{
+    font-family: "LA12";
+    src: url(downloads/woff2/MacLosAngeles-12.woff2)
+}
+
+
+@font-face
+{
+    font-family: "LA24";
+    src: url(downloads/woff2/MacLosAngeles-24.woff2)
+}
+
+@font-face
+{
+    font-family: "MMonaco09";
+    src: url(downloads/woff2/MacMonaco-09.woff2)
+}
+
+@font-face
+{
+    font-family: "MMonaco12";
+    src: url(downloads/woff2/MacMonaco-12.woff2)
+}
+
+@font-face
+{
+    font-family: "NY09";
+    src: url(downloads/woff2/MacNewYork-09.woff2)
+}
+
+@font-face
+{
+    font-family: "NY10";
+    src: url(downloads/woff2/MacNewYork-10.woff2)
+}
+
+
+@font-face
+{
+    font-family: "NY12";
+    src: url(downloads/woff2/MacNewYork-12.woff2)
+}
+
+@font-face
+{
+    font-family: "NY14";
+    src: url(downloads/woff2/MacNewYork-14.woff2)
+}
+
+@font-face
+{
+    font-family: "NY18";
+    src: url(downloads/woff2/MacNewYork-18.woff2)
+}
+
+@font-face
+{
+    font-family: "NY24";
+    src: url(downloads/woff2/MacNewYork-24.woff2)
+}
+
+@font-face
+{
+    font-family: "NY36";
+    src: url(downloads/woff2/MacNewYork-36.woff2)
+}
+
+@font-face
+{
+    font-family: "SF";
+    src: url(downloads/woff2/MacSanFrancisco-18.woff2)
+}
+
+@font-face
+{
+    font-family: "Toronto09";
+    src: url(downloads/woff2/MacToronto-09.woff2)
+}
+
+@font-face
+{
+    font-family: "Toronto12";
+    src: url(downloads/woff2/MacToronto-12.woff2)
+}
+
+@font-face
+{
+    font-family: "Toronto14";
+    src: url(downloads/woff2/MacToronto-14.woff2)
+}
+
+@font-face
+{
+    font-family: "Toronto18";
+    src: url(downloads/woff2/MacToronto-18.woff2)
+}
+
+@font-face
+{
+    font-family: "Toronto24";
+    src: url(downloads/woff2/MacToronto-24.woff2)
+}
+
+@font-face
+{
+    font-family: "Venice";
+    src: url(downloads/woff2/MacVenice-14.woff2)
+}
+
+
+/*
+fonts:
+Athens
+Chicago YEP
+Geneva09 YEP
+Geneva10 YEP
+Geneva12 YEP
+Geneva14 YEP
+Geneva18 YEP
+Geneva24 YEP
+London YEP
+LA12 YEP
+LA24 YEP
+MMonaco09 YEP
+MMonaco12 YEP
+New York 09 YEP
+New York 10 YEP
+New York 12 YEP
+New York 14 YEP
+New York 18 YEP
+New York 24 YEP
+New York 36 YEP
+SF YEP
+Toronto09 YEP
+Toronto12 YEP
+Toronto14 YEP
+Toronto18 YEP
+Toronto24 YEP
+Venice14 YEP
+*/
+html
+{
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+}
+
+.chicago
+{
+    font-family: "Chicago";
+    font-size: 1.2rem;
+}
+
+.new-york
+{
+    font-family: "NY14";
+    font-size: 1.2rem;
+}
+
+.sf
+{
+    font-family: "SF";
+    font-size: 1.2rem;
+}
+
+.london
+{
+    font-family: "London";
+    font-size: 1.2rem;
+}
+
+.geneva
+{
+    font-family: 'Geneva14';
+    font-size: 1.2rem;
+}
+
+.venice
+{
+    font-family: "Venice";
+    font-size: 1.2rem;
+}
+
+.la
+{
+    font-family: "LA24";
+    font-size: 1.2rem;
+}
+
+.toronto
+{
+    font-family: "Toronto18";
+    font-size: 1.2rem;
+}
+
+.monaco
+{
+    font-family: "MMonaco12";
+    font-size: 1.2rem;
+}
+
+.athens
+{
+    font-family: "Athens";
+    font-size: 1.2rem;
+}
+
+.center
+{
+    text-align: center;
+    margin-top: 0.5rem;
+}
